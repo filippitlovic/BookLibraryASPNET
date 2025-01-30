@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|c:\\users\\korisnik\\source\\booklibraryapp_asp_mvc\\booklibrary\\booklibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|c:\\users\\korisnik\\source\\booklibraryapp_asp_mvc\\booklibrary\\booklibrary\\controllers\\booksapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\controllers\\booksapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|c:\\users\\korisnik\\source\\booklibraryapp_asp_mvc\\booklibrary\\booklibrary\\services\\bookapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\services\\bookapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|c:\\users\\korisnik\\source\\booklibraryapp_asp_mvc\\booklibrary\\booklibrary\\models\\entities\\bookapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\models\\entities\\bookapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|c:\\users\\korisnik\\source\\booklibraryapp_asp_mvc\\booklibrary\\booklibrary\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|c:\\users\\korisnik\\source\\booklibraryapp_asp_mvc\\booklibrary\\booklibrary\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|c:\\users\\korisnik\\source\\booklibraryapp_asp_mvc\\booklibrary\\booklibrary\\booklibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\booklibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|c:\\users\\korisnik\\source\\booklibraryapp_asp_mvc\\booklibrary\\booklibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|c:\\users\\korisnik\\source\\booklibraryapp_asp_mvc\\booklibrary\\booklibrary\\migrations\\20250129123743_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\migrations\\20250129123743_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|c:\\users\\korisnik\\source\\booklibraryapp_asp_mvc\\booklibrary\\booklibrary\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|c:\\users\\korisnik\\source\\booklibraryapp_asp_mvc\\booklibrary\\booklibrary\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED1FC81-2E6F-48C6-81B8-94F5B47B22CD}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +62,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Controllers\\BooksApiController.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Controllers\\BooksApiController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Controllers\\BooksApiController.cs",
+              "RelativeToolTip": "BookLibrary\\Controllers\\BooksApiController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:41:39.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookLibrary\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:20:47.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookApiModel.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Models\\Entities\\BookApiModel.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Models\\Entities\\BookApiModel.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Models\\Entities\\BookApiModel.cs",
+              "RelativeToolTip": "BookLibrary\\Models\\Entities\\BookApiModel.cs",
+              "ViewState": "AgIAAAMAAADAGlmG0rArwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:03:33.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Services\\BookApiService.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Services\\BookApiService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Services\\BookApiService.cs",
+              "RelativeToolTip": "BookLibrary\\Services\\BookApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:28:04.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BookLibrary\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:39:15.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250129123743_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Migrations\\20250129123743_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Migrations\\20250129123743_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Migrations\\20250129123743_InitialCreate.cs",
+              "RelativeToolTip": "BookLibrary\\Migrations\\20250129123743_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:37:43.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\appsettings.json",
+              "RelativeDocumentMoniker": "BookLibrary\\appsettings.json",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\appsettings.json",
+              "RelativeToolTip": "BookLibrary\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T12:27:05.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Program.cs",
+              "RelativeToolTip": "BookLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:19:09.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookLibrary",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\BookLibrary.csproj",
+              "RelativeDocumentMoniker": "BookLibrary\\BookLibrary.csproj",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\BookLibrary.csproj",
+              "RelativeToolTip": "BookLibrary\\BookLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T10:25:12.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookLibrary\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:17:49.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\source\\BookLibraryApp_ASP_MVC\\BookLibrary\\BookLibrary\\Models\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "BookLibrary\\Models\\Entities\\Book.cs",
